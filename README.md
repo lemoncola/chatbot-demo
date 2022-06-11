@@ -14,10 +14,12 @@
 1. Google Maps Platform
 
 - [Create project](https://developers.google.com/maps/documentation/geocoding/cloud-setup#create)
-- Enable billing
-- Enable `Geocoding API`
-- Enable `Maps JavaScript API`
+- [Enable billing](https://developers.google.com/maps/documentation/javascript/cloud-setup#billing)
+- [Enable APIs](https://developers.google.com/maps/documentation/javascript/cloud-setup#enabling-apis)
+    - Geocoding API
+    - Maps JavaScript API
 - [Create API key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+- [Restrict API key](https://developers.google.com/maps/documentation/javascript/get-api-key#restrict_key)
 - [Replace API key](https://developers.google.com/maps/documentation/javascript/get-api-key#add_key) in `public/index.html`
 
 2. Customize Theme
